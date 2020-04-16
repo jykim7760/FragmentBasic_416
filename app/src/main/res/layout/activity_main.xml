@@ -9,6 +9,11 @@
 
 
 
+<fragment
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    class="com.practice.fragmentbasic_416.fragments.FirstFragment"/>
+
 
 
 

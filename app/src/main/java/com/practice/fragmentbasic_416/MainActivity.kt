@@ -16,11 +16,9 @@ class MainActivity : BaseActivity() {
 
 
     override fun setupEvents() {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
     }
 
     override fun setValues() {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
     }
 
 }
