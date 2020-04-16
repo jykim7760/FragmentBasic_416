@@ -7,8 +7,7 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.practice.fragmentbasic_416.R
 
-class FirstFragment : Fragment() {
-
+class SecondFragment : Fragment(){
 
     override fun onCreateView(
         inflater: LayoutInflater,
@@ -17,7 +16,5 @@ class FirstFragment : Fragment() {
     ): View? {
         return inflater.inflate(R.layout.fragment_first, container, false)
     }
-
-
 
 }
